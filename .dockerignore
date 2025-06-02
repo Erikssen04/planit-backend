@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gradle
+.idea
+*.iml
+*.log
+build
+out
+target
+node_modules
+src/test
